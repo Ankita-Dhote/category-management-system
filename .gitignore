@@ -1,0 +1,17 @@
+# Maven build files
+target/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# Local database configuration
+src/main/resources/application.properties
+.metadata/

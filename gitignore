@@ -1,0 +1,17 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+
+# Eclipse
+.metadata/
+.settings/
+bin/
+*.launch
+
+# Operating system
+.DS_Store
+Thumbs.db
